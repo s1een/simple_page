@@ -76,7 +76,7 @@ h6 {
 body {
   background-color: #e8e8e8;
   font-family: Arial, Helvetica, sans-serif;
-  background: url("/project/img/Ellipse\ 1\ copy.png") 50% no-repeat;
+  background: url("../img/Ellipse.png") 50% no-repeat;
 }
 
 .container {
@@ -128,7 +128,7 @@ body {
 }
 .list li {
   padding: 0 0 0 30px;
-  background: url("/project/img/check\ icon.png") left 7px no-repeat;
+  background: url("../img/check_icon.png") left 7px no-repeat;
 }
 .arial1 {
   text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
